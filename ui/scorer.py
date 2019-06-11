@@ -30,7 +30,11 @@ connections = []
 pacold = 0
 redold = 0
 blueold = 0
-
+bkgPic = "bkg-en.png"
+gameOver = "Game Over"
+pacWon = "Pacman Wins"
+redWon = "Red Ghost Wins"
+blueWon = "Green Ghost Wins"
 reset = 0
 need_reset = 0
 
