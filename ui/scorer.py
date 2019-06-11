@@ -38,6 +38,9 @@ blueWon = "Green Ghost Wins"
 reset = 0
 need_reset = 0
 
+touchx = 0
+touchy = 0
+
 def broadcast(data):
         for (s, id) in connections:
            send_str = str(str(data)).encode()
@@ -153,7 +156,8 @@ class Reset(object):
            print ("READING INPUT")
 
    def watch(self):
-           global reset,need_reset,locations
+           global yelold,redold,greenold,need_reset,target,bkgPic,gameOver,yelWon,redWon,greenWon
+           global reset,need_reset,locations,touchx,touchy
            btn_pressed = 0
            btn_processed = 0
            x = -1
@@ -162,7 +166,7 @@ class Reset(object):
            y_p = 0
 
            for event in device.read_loop():
-                   #    print(evdev.categorize(event))
+#                print(evdev.categorize(event))
                 if event.type == evdev.ecodes.EV_KEY:
                            if event.code == evdev.ecodes.BTN_TOUCH:
                                    if btn_pressed == 1:
@@ -175,20 +179,22 @@ class Reset(object):
                     
                 if event.type == evdev.ecodes.EV_ABS:
                         if event.code == evdev.ecodes.ABS_MT_POSITION_X:
-                                #            print("X: " + str(event.value))
+                                print("X: " + str(event.value))
                                 x = event.value
                                 if btn_pressed == 1:
                                         x_p = 1
                         if event.code == evdev.ecodes.ABS_MT_POSITION_Y:
-                                #            print("Y: " + str(event.value))            
+                                print("Y: " + str(event.value))            
                                 y = event.value
                                 if btn_pressed == 1:
                                         y_p = 1
 
-                        if x != -1 and y != -1 and btn_processed == 0:
+                        if x != -1 and y != -1 and btn_processed == 0 and btn_pressed == 1:
                                 btn_processed = 1
                                 print("X: " + str(x))
-                                print("Y: " + str(y))
+                                print("Y: " + str(y))  
+                                touchx = x
+                                touchy = y
                                 if x > 390 and x < 620 and y > 360 and y < 450:
                                         print "Reset Pressed"
                                         reset = 1
