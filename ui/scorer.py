@@ -225,7 +225,7 @@ class Reset(object):
                                 elif x > 720 and x < 800 and y > 0 and y < 65:
                                         print("Ending PACMAN")
                                         updatedata("Exit")
-                                        os.system('echo seshan | sudo -S killall fbi ; ')
+                                        os.system('echo seshan | sudo -S killall fbi ; sudo service lightdm restart')
                                         sys.exit()
                                 else:
                                         updatedata("Touch")
