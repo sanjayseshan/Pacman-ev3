@@ -1,238 +1,1766 @@
-connected to 10.42.0.3
+server not available(111, 'Connection refused')
 Active on port: 5000 & 6000
 sending 13 bytes
 sending total 17 bytes
 sending b'\x00\x00\x00\r0;green:(0,0)'
-SENDING COMPLETE
+FAILURE TO SEND..(32, 'Broken pipe')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(111, 'Connection refused')..RECONNECTING
 INIT
-entering monitoring - rfl > 8
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-none:(1, 0)
-sending 13 bytes
-sending total 17 bytes
-sending b'\x00\x00\x00\r0;none:(1, 0)'
-SENDING COMPLETE
-entering monitoring - rfl > 8
-none:(1, 0)
-sending 13 bytes
-sending total 17 bytes
-sending b'\x00\x00\x00\r0;none:(1, 0)'
-SENDING COMPLETE
-entering monitoring - rfl > 8
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-red:(1, 0)
-sending 12 bytes
-sending total 16 bytes
-sending b'\x00\x00\x00\x0c0;red:(1, 0)'
-SENDING COMPLETE
-entering monitoring - rfl > 8
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-red:(1, 0)
-sending 12 bytes
-sending total 16 bytes
-sending b'\x00\x00\x00\x0c0;red:(1, 0)'
-SENDING COMPLETE
-RESET
-resetting
-sending 13 bytes
-sending total 17 bytes
-sending b'\x00\x00\x00\r0;green:(0,0)'
-SENDING COMPLETE
-entering monitoring - rfl > 8
-entering monitoring - color not 0
-entering monitoring - color not 0
-yellow:(1, 0)
-sending 15 bytes
-sending total 19 bytes
-sending b'\x00\x00\x00\x0f1;yellow:(1, 0)'
-SENDING COMPLETE
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-white:(1, 0)
-sending 14 bytes
-sending total 18 bytes
-sending b'\x00\x00\x00\x0e1;white:(1, 0)'
-SENDING COMPLETE
-entering monitoring - color not 0
-none:(1, 0)
-sending 13 bytes
-sending total 17 bytes
-sending b'\x00\x00\x00\r1;none:(1, 0)'
-SENDING COMPLETE
-entering monitoring - color not 0
-none:(1, 0)
-sending 13 bytes
-sending total 17 bytes
-sending b'\x00\x00\x00\r1;none:(1, 0)'
-SENDING COMPLETE
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-none:(1, 0)
-sending 13 bytes
-sending total 17 bytes
-sending b'\x00\x00\x00\r1;none:(1, 0)'
-SENDING COMPLETE
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+connected to 10.42.0.3
 RESET
 resetting
 sending 13 bytes
