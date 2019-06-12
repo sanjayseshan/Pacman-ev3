@@ -99,7 +99,7 @@ def updatedata(caller):
         os.system('convert -background black -fill white -size 16x16 -font Helvetica -pointsize 15 -gravity center label:"'+blue+'" -threshold 50 -morphology Thinning:-1 "LineEnds:-1;Peaks:1.5" -depth 1 cmd2.png')
         os.system('convert -background black -fill white -size 16x16 -font Helvetica -pointsize 15 -gravity center label:"'+pac+'" -threshold 50 -morphology Thinning:-1 "LineEnds:-1;Peaks:1.5" -depth 1 cmd3.png')
 
-        if caller == "Reset1":
+        if caller == "Reset1" or caller == "Reset":
                 #os.system('cp cmd.png cmdtmp.png ; convert cmdtmp.png -fill none -stroke blue -strokewidth 3 -draw "rectangle 77,70 124,90" cmd.png')
                 os.system('convert -size 160x96 xc:black -fill red -draw "image over  0,0 0,0 \''+bkgPic+'\'" -fill red -draw "image over  '+str(int(xr)*16)+','+str(int(yr)*16)+' 0,0 \'red.png\'" -draw "image over  '+str(int(xb)*16)+','+str(int(yb)*16)+' 0,0 \'green.png\'" -fill yellow -draw "image over  '+str(int(xy)*16)+','+str(int(yy)*16)+' 0,0 \'pacman.png\'"  -draw "image over  100,18 0,0 \'cmd1.png\'" -draw "image over  100,34 0,0 \'cmd2.png\'" -draw "image over  100,50 0,0 \'cmd3.png\'" -fill none -stroke blue -strokewidth 3 -draw "rectangle 77,70 124,90" -fill black -draw "image over '+str(touchx/5)+','+str(touchy/5)+' 0,0 mouse2.png"  cmd.png ')
         if caller == "Exit":
@@ -225,7 +225,7 @@ class Reset(object):
                                 elif x > 720 and x < 800 and y > 0 and y < 65:
                                         print("Ending PACMAN")
                                         updatedata("Exit")
-                                        os.system('echo seshan | sudo -S killall fbi ; sudo service lightdm restart; sudo killall ssh sshpass')
+                                        os.system('echo seshan | sudo -S killall fbi ; ~/pacman/base/kill-base;x sudo service lightdm restart; sudo killall ssh sshpass')
                                         sys.exit()
                                 else:
                                         updatedata("Touch")
