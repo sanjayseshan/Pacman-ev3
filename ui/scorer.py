@@ -113,9 +113,9 @@ def updatedata(caller):
         
         if int(red) >= ghostmax or int(blue) >= ghostmax or int(pac) >= pacmax:
 	        print "GAME OVER"
-                need_reset = 1
-                if caller != "Language" and caller != "Reset1" and caller != "Touch" and caller != "spinner" and caller != "Exit":
+                if caller != "Language" and caller != "Reset1" and caller != "Touch" and caller != "spinner" and caller != "Exit" and need_reset != 1:
 	                os.system('echo seshan | sudo -S aplay pacman-intro.wav &')
+                need_reset = 1
 	        os.system('cp cmd.png cmdtmp.png')
 	        if int(red) >= ghostmax :
 		        os.system('convert cmdtmp.png -font Helvetica -weight 700  -pointsize 15 -undercolor white -draw "gravity center fill blue text 0,0 \''+gameOver+'\n'+redWon+'\' " cmd.png')
