@@ -1299,3 +1299,113 @@ X: 521
 Y: 400
 X: 520
 RELEASED
+X: 756
+Y: 45
+PRESSED
+X: 756
+Y: 45
+Ending PACMAN
+Called by Exit
+Locations: {'blue': (0, 0), 'brown': (0, 0), 'none': (4, 2), 'black': (0, 0), 'red': (3, 3), 'green': (0, 0), 'white': (0, 0), 'yellow': (5, 0)}
+Pacman: 0
+Red: 0
+Green: 0
+Connected:
+T1
+T2
+T0
+T3
+T4
+T5
+Gred
+
+
+killed1
+TileHandler Exception
+('unpack requires a string argument of length 4',)
+Called by T0
+Locations: {'blue': (0, 0), 'brown': (0, 0), 'none': (4, 2), 'black': (0, 0), 'red': (3, 3), 'green': (0, 0), 'white': (0, 0), 'yellow': (5, 0)}
+Pacman: 0
+Red: 0
+Green: 0
+Connected:
+T1
+T2
+T3
+T4
+T5
+Gred
+
+
+fbi: no process found
+killed2
+TileHandler Exception
+('unpack requires a string argument of length 4',)
+Called by T1
+Locations: {'blue': (0, 0), 'brown': (0, 0), 'none': (4, 2), 'black': (0, 0), 'red': (3, 3), 'green': (0, 0), 'white': (0, 0), 'yellow': (5, 0)}
+Pacman: 0
+Red: 0
+Green: 0
+Connected:
+T2
+T3
+T4
+T5
+Gred
+
+
+killed3
+TileHandler Exception
+('unpack requires a string argument of length 4',)
+Called by T2
+Locations: {'blue': (0, 0), 'brown': (0, 0), 'none': (4, 2), 'black': (0, 0), 'red': (3, 3), 'green': (0, 0), 'white': (0, 0), 'yellow': (5, 0)}
+Pacman: 0
+Red: 0
+Green: 0
+Connected:
+T3
+T4
+T5
+Gred
+
+
+killed4
+TileHandler Exception
+('unpack requires a string argument of length 4',)
+Called by T3
+Locations: {'blue': (0, 0), 'brown': (0, 0), 'none': (4, 2), 'black': (0, 0), 'red': (3, 3), 'green': (0, 0), 'white': (0, 0), 'yellow': (5, 0)}
+Pacman: 0
+Red: 0
+Green: 0
+Connected:
+T4
+T5
+Gred
+
+
+killed5
+TileHandler Exception
+('unpack requires a string argument of length 4',)
+Called by T4
+Locations: {'blue': (0, 0), 'brown': (0, 0), 'none': (4, 2), 'black': (0, 0), 'red': (3, 3), 'green': (0, 0), 'white': (0, 0), 'yellow': (5, 0)}
+Pacman: 0
+Red: 0
+Green: 0
+Connected:
+T5
+Gred
+
+
+killed6
+sh: 1: x: not found
+TileHandler Exception
+('unpack requires a string argument of length 4',)
+Called by T5
+Locations: {'blue': (0, 0), 'brown': (0, 0), 'none': (4, 2), 'black': (0, 0), 'red': (3, 3), 'green': (0, 0), 'white': (0, 0), 'yellow': (5, 0)}
+Pacman: 0
+Red: 0
+Green: 0
+Connected:
+Gred
+
+
